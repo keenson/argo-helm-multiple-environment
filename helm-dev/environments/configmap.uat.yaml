@@ -1,1 +1,2 @@
+POSTGRES_USER: uatuser
 POSTGRES_DB: postgresdb-uat

@@ -1,1 +1,2 @@
+POSTGRES_USER: devuser
 POSTGRES_DB: postgresdb-dev
